@@ -1,43 +1,36 @@
 
 # Ukesh Thapa
 
-AI Researcher | Machine Learning Engineer
+**AI Researcher | Machine Learning Engineer**
 
-## Machine Learning Engineering
+Exploring the computational foundations of intelligence
+and developing reliable machine learning systems.
 
-- Software Engineering & System Design
-- LLMs, RAG & Agentic AI
-- Model Serving & Quantization
-- MLOps, LLMOps & Cloud Computing
+[Website](https://www.ukeshthapa.com.np/) ·
+[Google Scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=Ukesh+Thapa) ·
+[Email](mailto:ukesh.thapa@acem.edu.np)
 
-## Fundamental Research
+## Areas of Work
 
-- Mathematical Foundations of AI
-- Reinforcement Learning
-- Probabilistic Machine Learning
-- Active Inference & Free Energy Principle
-- World Models & Artificial Reasoning
-
-## Applied Research
-
-- Computer Vision
-- Medical Imaging & Biomedical Signals
-- Time-Series Forecasting
-- Environmental Intelligence
-- Wireless & Sensor Intelligence
-- Natural Language Processing
+| Domain | Focus Areas |
+| :--- | :--- |
+| Machine Learning Engineering | LLMs, Agentic AI, RAG, Inference Optimization, MLOps |
+| Fundamental Research | Reinforcement Learning, Probabilistic Inference, Active Inference, World Models |
+| Applied Research | Computer Vision, Biomedical AI, Time-Series Modelling, Environmental Intelligence |
 
 ## Research Interests
 
-Computational foundations of intelligence, learning,
-reasoning and decision-making under uncertainty.
+Learning, reasoning, causality and intelligent decision-making
+under uncertainty, with particular interest in the Free Energy
+Principle and the computational foundations of intelligence.
 
-## Current Projects
+## Research Impact
 
-- MouseScholar — Agentic RAG
-- LLM Systems Engineering — Planned
-- Reinforcement Learning Foundations
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=search_authors&mauthors=Ukesh+Thapa)
 
-## Contact
+## GitHub Statistics
 
-ukesh.thapa@acem.edu.np
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=UkeshThapa&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkeshThapa&layout=donut&theme=transparent&hide_border=true" />
+</p>
