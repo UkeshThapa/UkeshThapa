@@ -6,9 +6,10 @@
 Exploring the computational foundations of intelligence
 and developing reliable machine learning systems.
 
-[Website](https://www.ukeshthapa.com.np/) ·
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=search_authors&mauthors=Ukesh+Thapa) ·
-[Email](mailto:yukeshthapa8@gmail.com)
+
+[![Website](https://img.shields.io/badge/Website-24292f?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ukeshthapa.com.np/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ukesh.thapa@acem.edu.np)
 
 ## Areas of Work
 
