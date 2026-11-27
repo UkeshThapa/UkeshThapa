@@ -8,7 +8,7 @@ and developing reliable machine learning systems.
 
 [Website](https://www.ukeshthapa.com.np/) ·
 [Google Scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=Ukesh+Thapa) ·
-[Email](mailto:ukesh.thapa@acem.edu.np)
+[Email](mailto:yukeshthapa8@gmail.com)
 
 ## Areas of Work
 
@@ -20,13 +20,13 @@ and developing reliable machine learning systems.
 
 ## Research Interests
 
-Learning, reasoning, causality and intelligent decision-making
+Learning, reasoning, causality, and intelligent decision-making
 under uncertainty, with particular interest in the Free Energy
 Principle and the computational foundations of intelligence.
 
 ## Research Impact
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=search_authors&mauthors=Ukesh+Thapa)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)]([https://scholar.google.com/citations?view_op=search_authors&mauthors=Ukesh+Thapa](https://scholar.google.com/citations?hl=en&user=hipEgA0AAAAJ))
 
 ## GitHub Statistics
 
