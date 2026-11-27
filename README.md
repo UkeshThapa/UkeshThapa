@@ -2,51 +2,35 @@
 
 **AI Researcher · Machine Learning Engineer**
 
-<a href="https://www.ukeshthapa.com.np/">
-  <img src="https://img.shields.io/badge/Website-57606A?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/>
-</a>
-<a href="https://scholar.google.com/citations?user=YOUR_ID">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
-</a>
-<a href="mailto:ukesh.thapa@acem.edu.np">
-  <img src="https://img.shields.io/badge/Email-57606A?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+[![Website](https://img.shields.io/badge/Website-57606A?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ukeshthapa.com.np/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=search_authors&mauthors=Ukesh+Thapa)
+[![Email](https://img.shields.io/badge/Email-57606A?style=flat-square&logo=gmail&logoColor=white)](mailto:ukesh.thapa@acem.edu.np)
 
-Exploring the computational foundations of intelligence and
-engineering reliable machine learning systems.
+Exploring the computational foundations of intelligence and engineering reliable machine learning systems.
 
 ## Areas of Work
 
-**Machine Learning Engineering** — Current development
-
-LLMs · Agentic AI · RAG · Inference Optimization · MLOps
-
-**Fundamental Research** — Areas of study
-
-Reinforcement Learning · Probabilistic Inference ·
-Active Inference · World Models
-
-**Applied Research**
-
-Computer Vision · Biomedical AI · Time-Series Modelling ·
-Environmental Intelligence
+| ML Engineering (Development) | Fundamental Research (Study) | Applied Research |
+| :--- | :--- | :--- |
+| Software Engineering | Mathematical Foundations | Computer Vision |
+| LLMs & Agentic AI | Reinforcement Learning | Biomedical AI |
+| RAG Systems | Probabilistic Inference | Time-Series Modelling |
+| Model Serving | Active Inference | Environmental AI |
+| Quantization | World Models | Wireless & Sensor AI |
+| MLOps & LLMOps | Representation Learning | Natural Language Processing |
 
 ## Research Interests
 
-Learning, reasoning and decision-making under uncertainty,
-with particular interest in the Free Energy Principle and
-the computational foundations of intelligence.
-
-## Research Impact
-
-Published research in Water, Sensors, Applied Sciences
-and IEEE Access.
-
-[View publications and citation metrics on Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
+- Free Energy Principle and Active Inference
+- Reinforcement Learning and Decision-Making
+- Probabilistic World Models
+- Causal Reasoning and Hierarchical Learning
+- Multi-Agent Intelligence
+- NeuroAI and Cognitive Systems
 
 ## GitHub Statistics
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UkeshThapa&show_icons=true&hide_rank=true&theme=transparent&hide_border=true" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkeshThapa&layout=donut&theme=transparent&hide_border=true" alt="Programming languages"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UkeshThapa&show_icons=true&hide_rank=true&theme=transparent&hide_border=true" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkeshThapa&layout=donut&theme=transparent&hide_border=true" alt="Programming Languages"/>
 </p>
